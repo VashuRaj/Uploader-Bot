@@ -2,9 +2,9 @@
 
 
 
-#### [UPLOADER-BOT](https://t.me/uploader_x_bot)
+#### [UPLOADER-BOT](https://t.me/DeltaBotsOfficial)
 
-[![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Size](https://img.shields.io/github/repo-size/VashuRaj/Uploader-Bot?style=flat-square&color=green)](https://github.com/VashuRaj/Uploader-Bot)
 
 ---
 
@@ -30,7 +30,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Clinton-Abraham/UPLOADER-BOT/issues/14#issuecomment-1021253536)
+[![Deploy](https://www.heroku.com/deploy?template=https://github.com/VashuRaj/Uploader-Bot)
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
@@ -38,7 +38,7 @@ heroku/python
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone https://github.com/Clinton-Abraham/UPLOADER-BOT.git`
+`* git clone https://github.com/VashuRaj/Uploader-Bot.git`
 
 `* heroku login`
 
